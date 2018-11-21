@@ -4,5 +4,8 @@
     "Biosphere_Scourge.wld": false,
     "Biosphere_Decimatus.wld": false,
     "Gone_Fishing.wld": false
+  },
+  "Player": {
+    "Ishtar.plr": true
   }
 }

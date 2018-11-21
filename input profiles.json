@@ -537,7 +537,7 @@
       "QuickMount": ["R"],
       "QuickHeal": ["H"],
       "QuickMana": ["J"],
-      "QuickBuff": ["B"],
+      "QuickBuff": ["NumPad0"],
       "MapZoomIn": ["Add"],
       "MapZoomOut": ["Subtract"],
       "MapAlphaUp": ["PageUp"],
@@ -555,7 +555,18 @@
       "Hotbar9": ["D9"],
       "Hotbar10": ["D0"],
       "ViewZoomIn": ["OemPlus"],
-      "ViewZoomOut": ["OemMinus"]
+      "ViewZoomOut": ["OemMinus"],
+      "HelpfulHotkeys: Auto Recall": ["Home"],
+      "HelpfulHotkeys: Auto Torch": ["OemTilde"],
+      "HelpfulHotkeys: Cycle Ammo": ["OemPeriod"],
+      "HelpfulHotkeys: Quick Stack to Chests": ["OemMinus"],
+      "HelpfulHotkeys: Smart Quick Stack to Chests": ["OemPipe"],
+      "HelpfulHotkeys: Quick Use Item #20": ["L"],
+      "HelpfulHotkeys: Quick Buff Favorited Only": ["B"],
+      "HelpfulHotkeys: Query Mod Origin": ["OemQuestion"],
+      "HelpfulHotkeys: Toggle Autopause": ["P"],
+      "HelpfulHotkeys: Swap Armor with Vanity": [""],
+      "HelpfulHotkeys: Cycling Quick Mount": [""]
     },
     "Gamepad": 
     {
